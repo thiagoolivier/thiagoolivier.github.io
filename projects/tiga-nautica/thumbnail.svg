@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" role="img" aria-label="Tiga Náutica">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c2733"/>
+      <stop offset="1" stop-color="#0f1620"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="10" fill="url(#bg)"/>
+  <g opacity="0.5" stroke="#5ec8e5" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M0 150 q40 -18 80 0 t80 0 t80 0 t80 0"/>
+    <path d="M0 164 q40 -18 80 0 t80 0 t80 0 t80 0" opacity="0.5"/>
+  </g>
+  <g transform="translate(28 34)" fill="none" stroke="#5ec8e5" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="22" cy="10" r="7"/>
+    <path d="M22 17 V70"/>
+    <path d="M4 34 H40"/>
+    <path d="M6 52 a16 16 0 0 0 32 0"/>
+  </g>
+  <text x="86" y="66" fill="#ffffff" font-family="Verdana,Segoe UI,sans-serif" font-size="30" font-weight="700">Tiga</text>
+  <text x="86" y="98" fill="#5ec8e5" font-family="Verdana,Segoe UI,sans-serif" font-size="30" font-weight="700">Náutica</text>
+  <text x="28" y="150" fill="#9fb3c8" font-family="Verdana,Segoe UI,sans-serif" font-size="13">Multi-tenant SaaS · Laravel · React</text>
+</svg>

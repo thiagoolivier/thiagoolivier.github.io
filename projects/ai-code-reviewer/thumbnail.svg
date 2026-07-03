@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" role="img" aria-label="AI Code Reviewer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a2233"/>
+      <stop offset="1" stop-color="#14101a"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="10" fill="url(#bg)"/>
+  <g transform="translate(26 44)" fill="none" stroke="#f0b86e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="16" width="56" height="46" rx="10"/>
+    <path d="M32 4 V16"/>
+    <circle cx="32" cy="4" r="4" fill="#f0b86e"/>
+    <circle cx="22" cy="38" r="4" fill="#f0b86e" stroke="none"/>
+    <circle cx="42" cy="38" r="4" fill="#f0b86e" stroke="none"/>
+    <path d="M-2 34 H4 M60 34 H66"/>
+  </g>
+  <text x="104" y="60" fill="#ffffff" font-family="Verdana,Segoe UI,sans-serif" font-size="26" font-weight="700">AI Code</text>
+  <text x="104" y="90" fill="#f0b86e" font-family="Verdana,Segoe UI,sans-serif" font-size="26" font-weight="700">Reviewer</text>
+  <g transform="translate(104 108)" fill="none" stroke="#8a7f6a" stroke-width="3" stroke-linecap="round">
+    <path d="M6 6 L0 14 L6 22"/>
+    <path d="M26 6 L32 14 L26 22"/>
+    <path d="M18 2 L14 26"/>
+  </g>
+  <text x="26" y="150" fill="#c8b79a" font-family="Verdana,Segoe UI,sans-serif" font-size="13">TypeScript · Gemini AI · Webhooks</text>
+</svg>

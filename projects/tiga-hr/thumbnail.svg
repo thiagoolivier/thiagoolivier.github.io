@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" role="img" aria-label="Tiga HR">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#231b33"/>
+      <stop offset="1" stop-color="#120d1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" rx="10" fill="url(#bg)"/>
+  <g opacity="0.35" stroke="#BE8BFF" stroke-width="1.5">
+    <path d="M40 0 V180 M120 0 V180 M200 0 V180 M280 0 V180"/>
+  </g>
+  <g transform="translate(30 40)" fill="none" stroke="#BE8BFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="20" cy="16" r="12"/>
+    <path d="M2 62 a18 20 0 0 1 36 0"/>
+    <circle cx="52" cy="26" r="9" opacity="0.6"/>
+    <path d="M40 62 a14 16 0 0 1 28 0" opacity="0.6"/>
+  </g>
+  <text x="96" y="66" fill="#ffffff" font-family="Verdana,Segoe UI,sans-serif" font-size="32" font-weight="700">Tiga</text>
+  <text x="96" y="100" fill="#BE8BFF" font-family="Verdana,Segoe UI,sans-serif" font-size="32" font-weight="700">HR</text>
+  <text x="30" y="150" fill="#b9a9d6" font-family="Verdana,Segoe UI,sans-serif" font-size="13">NestJS · Next.js · TypeScript</text>
+</svg>
